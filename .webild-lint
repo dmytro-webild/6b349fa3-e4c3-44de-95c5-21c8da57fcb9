@@ -1,0 +1,10 @@
+src/components/Layout.tsx
+src/components/sections/about/AboutTwoVoiceStatement.tsx
+src/components/sections/contact/ContactFormPortrait.tsx
+src/components/sections/faq/FaqTwoVoiceAccordion.tsx
+src/components/sections/footer/FooterTabPanel.tsx
+src/components/sections/gallery/GallerySidewaysColourRun.tsx
+src/components/sections/hero/HeroShrinkSignedCard.tsx
+src/components/sections/pricing/PricingSilverTiers.tsx
+src/components/sections/testimonial/TestimonialFanStack.tsx
+src/pages/HomePage.tsx
