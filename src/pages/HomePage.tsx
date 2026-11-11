@@ -16,7 +16,7 @@ export default function HomePage() {
       />
 
       <LoaderMonogramDraw
-        label="Velocity Beats"
+        label="KASHDAONE BEATS"
         onComplete={() => {}}
       />
 
@@ -24,7 +24,7 @@ export default function HomePage() {
         <HeroShrinkSignedCard
           introDelay={2.6}
           eyebrow="Exclusive Urban Production"
-          title="Velocity Beats"
+          title="KASHDAONE BEATS"
           serifTitle="Hip Hop & R&B Production"
           primaryButton={{
             text: "Browse beats",
@@ -45,9 +45,9 @@ export default function HomePage() {
 
       <div id="about" data-webild-section="AboutTwoVoiceStatement" data-webild-section-id="AboutTwoVoiceStatement-1" data-section="about">
         <AboutTwoVoiceStatement
-          monogram="VB"
+          monogram="KB"
           label="Producer guarantee"
-          text="Every track from Velocity Beats delivers radio-ready punch without compromise."
+          text="Every track from KASHDAONE BEATS delivers radio-ready punch without compromise."
           serifWords={[
             "radio-ready",
             "compromise"
@@ -153,12 +153,12 @@ export default function HomePage() {
 
       <div id="testimonial" data-webild-section="TestimonialFanStack" data-webild-section-id="TestimonialFanStack-1" data-section="testimonial">
         <TestimonialFanStack
-          monogram="Velocity Beats Studio"
+          monogram="KASHDAONE BEATS Studio"
           heavyTitle="Artist"
           serifTitle="Co-Signs"
           items={[
             {
-              quote: "Velocity Beats gave my lead single the exact bounce and polished sound it needed. The master mix sat perfectly right away.",
+              quote: "KASHDAONE BEATS gave my lead single the exact bounce and polished sound it needed. The master mix sat perfectly right away.",
               name: "Marcus T.",
               role: "Recording Artist",
               imageSrc: "https://img.b2bpic.net/free-photo/cheerful-afro-american-with-white-shirt-earphones-posing-camera-blue-wall_181624-37616.jpg",

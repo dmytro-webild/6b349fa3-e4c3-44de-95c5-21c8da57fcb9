@@ -7,7 +7,7 @@ export default function Layout() {
     <div className="relative isolate min-h-svh flex flex-col bg-background text-foreground" data-button="silver" data-card="filled" data-pattern="grain">
       <header data-webild-section="Header">
         <NavbarMonogramSilver
-          brand="Velocity Beats"
+          brand="KASHDAONE BEATS"
           navItems={[
             {
               name: "Beat Folders",
@@ -36,8 +36,8 @@ export default function Layout() {
           }}
           contact={[
             {
-              label: "contact@velocitybeats.com",
-              href: "mailto:contact@velocitybeats.com"
+              label: "contact@kashdaonebeats.com",
+              href: "mailto:contact@kashdaonebeats.com"
             },
             {
               label: "Atlanta, GA",
@@ -51,7 +51,7 @@ export default function Layout() {
       </main>
       <footer data-webild-section="Footer" data-section="footer">
         <FooterTabPanel
-          titleHeavy="VELOCITY"
+          titleHeavy="KASHDAONE"
           titleSerif="BEATS."
           imageSrc="https://img.b2bpic.net/free-photo/medium-shot-musician-wearing-headphones_23-2150206741.jpg"
           imageAlt="Musician wearing headphones at mixing board in studio"
